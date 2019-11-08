@@ -1,10 +1,7 @@
 package day01exam;
 
-public class bb {
-	
+public class ccDev {
 	public static void main(String[] args) {
-		System.out.println("bbbbb");
+		// 测试分支的
 	}
-	
-	//this daima
 }
